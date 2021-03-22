@@ -1,7 +1,7 @@
 # pacman
 Name: MIT xD Pro Pacman PDroject
  
-Description: My project files for Week 4 of MIT xD Pro Coding Bootcamp.
+Description: My project files for Week 4 of MIT xPro Coding Bootcamp.
  
 Support: @siannaboschetti on Twitter
  
